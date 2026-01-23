@@ -4,7 +4,7 @@
   "name": "HUB_MPN_MCDV_MMCH",
   "content": "",
   "created_at": "2026-01-05 16:23:42",
-  "updated_at": "2026-01-19 16:49:19",
+  "updated_at": "2026-01-23 17:02:11",
   "stick": "",
   "documents": [
     {
@@ -1374,11 +1374,11 @@
         "8da96988a9164ab09ca115e01caf2944": 1
       },
       "BOM": [],
-      "updateTime": 1768848559,
+      "updateTime": 1769194931,
       "createTime": 1768843950,
       "histories": [],
       "created_at": "2026-01-19 15:32:30",
-      "updated_at": "2026-01-19 16:49:19"
+      "updated_at": "2026-01-23 17:02:11"
     }
   ],
   "sort": [
